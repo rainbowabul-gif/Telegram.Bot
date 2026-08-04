@@ -51,7 +51,7 @@ use it in your own bot projects.
 
 ## 🗂 References
 
-- [Documentation](https://telegrambots.github.io/book/)
+- [Documentation](https://telegrambots/@rainbow1231234.github.io/book/)
 - [Examples](https://github.com/TelegramBots/Telegram.Bot.Examples)
 
 <br/>
